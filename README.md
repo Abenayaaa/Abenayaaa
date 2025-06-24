@@ -1,60 +1,61 @@
 # 👋 Hello, I’m Abenaya Panneerselvam!
 
-### 🚀 Driving Innovation at the Intersection of Automation and Responsible AI
+### 🚀 Building Intelligent, Agentic Process Automation with AI & Scalable Orchestration
 
-Welcome to my GitHub space! I'm passionate about designing ethical, trustworthy, and scalable AI systems. With a strong background in **process automation** and a growing specialization in **Responsible AI**, I’m building solutions that not only work—but do good.
+Welcome to my GitHub! I specialize in designing automation solutions that combine **Agentic Process Automation** with leading platforms like **Automation Anywhere** and **Power Automate**, enhanced by AI orchestration for smarter, adaptive workflows.
 
----
-
-### 💼 Areas of Interest
-
-- 🤖 Process Automation (RPA & AI Orchestration)
-- ⚖️ Fairness & Bias Mitigation
-- 🔍 Explainable AI (XAI)
-- 🔐 AI Safety & Privacy
-- ☁️ Azure AI & Scalable ML Solutions
+I have a growing affinity for **AI Governance**, ensuring automation solutions are scalable, compliant, and aligned with responsible technology principles.
 
 ---
 
-### 🌱 Currently Learning
+## 💼 Areas of Interest
 
-I’m actively preparing for the **Azure AI-102 Certification**, while deep-diving into:
-
-- Microsoft’s Responsible AI Toolbox
-- Toolkits like **Fairlearn**, **IBM AI Fairness 360**, **SHAP**, and **LIME**
-- Ethical ML practices in production environments
-
----
-
-### 🛠 What I’m Working On
-
-- 📁 Building a **Responsible AI Tech Lead portfolio** showcasing:
-  - Fairness evaluation and mitigation
-  - Privacy-enhancing techniques
-  - End-to-end explainability workflows
-- 🌐 Developing real-world projects that combine **automation with ethical AI**
-- 📝 Writing and contributing to open-source and technical blogs on Responsible AI
+- 🤖 Agentic Process Automation & AI-Integrated Workflows  
+- 🔄 Automation Anywhere & Power Automate for End-to-End Automation  
+- 🤝 AI-Orchestrated Task Automation & Generative AI in Operations  
+- ☁️ Scalable Automation Solutions with Azure AI  
+- ⚖️ AI Governance & Risk Awareness (ensuring sustainable automation growth)  
 
 ---
 
-### 🤝 Let’s Collaborate
+## 🌱 Currently Growing My Expertise In
 
-I'm always open to working with:
+- AI-Enhanced Automation with **Automation Anywhere** & **Power Automate**  
+- Preparing for **Azure AI-102 Certification**  
+- Real-world use of AI agents and orchestration in process automation  
+- Exploring governance frameworks that complement scalable automation  
 
-- AI Engineers & Researchers interested in **ethical AI deployment**
-- Automation Architects exploring **AI-integrated workflows**
-- Communities advocating for **inclusive and transparent AI**
+---
 
-Whether it's research, practical implementation, or community initiatives — let’s connect and collaborate.
+## 🛠 What I’m Working On
+
+- ⚙️ Developing an **Agentic Process Automation portfolio**, showcasing:
+  - Autonomous, adaptive workflows with AI agents  
+  - AI-enhanced RPA combining Automation Anywhere and low-code tools  
+  - Solutions aligned with AI governance principles for long-term sustainability  
+- 🌐 Exploring how AI can transform business operations beyond static workflows  
+- 📝 Sharing practical insights on Agentic Automation, AI orchestration, and governance-ready automation  
+
+---
+
+## 🤝 Let’s Collaborate
+
+I work with:
+
+- Automation architects leveraging AI for smarter workflows  
+- Teams advancing **Agentic Process Automation** with tools like Automation Anywhere & Power Automate  
+- AI practitioners interested in combining automation with governance best practices  
+
+Let’s connect if you’re building solutions at the intersection of **AI, automation, and scalable business impact**.
 
 📬 **Reach me at:** [abenayapanneerselvam@gmail.com](mailto:abenayapanneerselvam@gmail.com)
 
 ---
 
-### 🔭 Fun Fact
+## 🔭 Fun Fact
 
-I believe **technology should empower everyone—fairly, transparently, and responsibly.** My mission is to build AI systems that reflect those values in action.
+I believe the future of automation is **adaptive, agent-driven, and governance-aware**—where workflows evolve with business needs, powered by AI and orchestrated for maximum efficiency.
 
 ---
 
-> 📌 *Feel free to explore my repositories and reach out for a discussion on Responsible AI, Automation, or anything at the intersection of ethics and technology.*
+> 📌 *Explore my repositories and let’s connect to shape the next generation of intelligent automation together.*
