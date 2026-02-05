@@ -2,7 +2,7 @@
 
 ### 🚀 Building Intelligent, Agentic Process Automation with AI & Scalable Orchestration
 
-Welcome to my GitHub! I specialize in designing automation solutions that combine **Agentic Process Automation** with leading platforms like **Automation Anywhere** and **Power Automate**, enhanced by AI orchestration for smarter, adaptive workflows.
+Welcome to my GitHub! I specialize in designing automation solutions that leverage **Agentic Process Automation** , enhanced by AI orchestration for smarter, adaptive workflows.
 
 I have a growing affinity for **AI Governance**, ensuring automation solutions are scalable, compliant, and aligned with responsible technology principles.
 
@@ -20,8 +20,8 @@ I have a growing affinity for **AI Governance**, ensuring automation solutions a
 
 ## 🌱 Currently Growing My Expertise In
 
-- AI-Enhanced Automation with **Automation Anywhere** & **Power Automate**  
-- Preparing for **Azure AI-102 Certification**  
+- AI-Enhanced Automation
+- Preparing for **Azure AB-100 Certification**  
 - Real-world use of AI agents and orchestration in process automation  
 - Exploring governance frameworks that complement scalable automation  
 
@@ -43,7 +43,7 @@ I have a growing affinity for **AI Governance**, ensuring automation solutions a
 I work with:
 
 - Automation architects leveraging AI for smarter workflows  
-- Teams advancing **Agentic Process Automation** with tools like Automation Anywhere & Power Automate  
+- Teams advancing **Agentic Process Automation**.
 - AI practitioners interested in combining automation with governance best practices  
 
 Let’s connect if you’re building solutions at the intersection of **AI, automation, and scalable business impact**.
